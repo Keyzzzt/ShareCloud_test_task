@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShareCloud_test_task/static/css/main.eaf31e1b.css",
+    "main.js": "/ShareCloud_test_task/static/js/main.eb9e2dcf.js",
+    "index.html": "/ShareCloud_test_task/index.html",
+    "main.eaf31e1b.css.map": "/ShareCloud_test_task/static/css/main.eaf31e1b.css.map",
+    "main.eb9e2dcf.js.map": "/ShareCloud_test_task/static/js/main.eb9e2dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf31e1b.css",
+    "static/js/main.eb9e2dcf.js"
+  ]
+}
